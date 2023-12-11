@@ -3,10 +3,12 @@ My first big team project in tech industry. I was mainly responsible for all gra
 
 "Our goal is to make the historic Jarosław Cemetery accessible on the internet through a 360-degree virtual tour. Additionally, we aim to memorialize the memory of the heroes resting there in a special way."
 
+We have raised over 3,140 PLN for the project and reached approximately 1,000 beneficiaries.
+
 ## Prizes:
-- ### 🥇 Best Project in Poland (Local Community category)
-- ### 🥈 Best Project in Subcarpathian Voivodeship
-- ### 🥉 Best Project in Technical School no.2 Jarosław
+- ### 🥇 Best Project in Poland (Local Community category) 2021
+- ### 🥈 Best Project in Subcarpathian Voivodeship 2021
+- ### 🥉 Best Project in Technical School no.2 Jarosław 2021
 
 ## Long description
 
