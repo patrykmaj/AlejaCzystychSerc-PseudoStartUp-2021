@@ -1,5 +1,5 @@
 # ❤️ Aleja Czystych Serc 2021
-My first big team project in tech industry. I was mainly responsible for all graphic and video work as well as for web page design.
+My first big team project in tech industry. I was mainly responsible for all graphic and video related work as well as web page designing.
 
 ✅ We have raised over 3,140 PLN for the project and reached approximately 1,000 beneficiaries.
 
