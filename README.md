@@ -1,7 +1,7 @@
 # ❤️ Aleja Czystych Serc 2021
 My first big team project in tech industry. I was mainly responsible for all graphic and video related work as well as web page designing.
 
-✅ We have raised over 3,140 PLN for the project and reached approximately 1,000 beneficiaries.
+✅ We have raised over 3,140 PLN for the project and reached approximately 1,000 beneficiaries. 
 
 "Our goal is to make the historic Jarosław Cemetery accessible on the internet through a 360-degree virtual tour. Additionally, we aim to memorialize the memory of the heroes resting there in a special way."
 
